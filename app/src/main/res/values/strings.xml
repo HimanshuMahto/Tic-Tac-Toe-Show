@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="grid">Our main grid</string>
+    <string name="buttonreset">Reset</string>
+    <string name="player1">Player 1 - X</string>
+    <string name="player2">Player 2 - O</string>
+    <string name="about">This is a Two Player\nTic-Tac-Toe Game.</string>
+</resources>
